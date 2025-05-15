@@ -1,4 +1,4 @@
-﻿
+﻿else
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "mimikatz", "mimikatz\mimikatz.vcxproj", "{FB9B5E61-7C34-4280-A211-E979E1D6977F}"
@@ -174,3 +174,5 @@ Global
 		{2FC87C8A-79C0-407D-A022-A13E793C2BC1} = {294B51F3-90EF-4F0A-BB04-20321A513A4F}
 	EndGlobalSection
 EndGlobal
+
+
